@@ -1,8 +1,8 @@
 /* CSS Document */
 /*on fait un reset pour éliminer les espacements intrinseques produits par certaines balises*/
 *{
-	margin:0;
-	padding:0;
+	margin:1;
+	padding:1;
 	box-sizing:border-box;
 }
 /*permet de retirer les bordures mises en automatique par le
